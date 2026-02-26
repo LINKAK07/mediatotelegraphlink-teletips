@@ -14,13 +14,13 @@
     ],
     "env": {
         "API_ID": {
-            "description": "Get from my.telegram.org/apps"
+            "description": "35943485"
         },
         "API_HASH": {
-            "description": "Get from my.telegram.org/apps"
+            "description": "185886afadce6add3777d63e61ed3257"
         },
         "BOT_TOKEN": {
-            "description": "Get from Telegram's @BotFather"
+            "description": "8440254585:AAG0kYQv-PRoC9G0AdmkbCDc58jcf0T9x_U"
         }
     },
     "formation": {
